@@ -46,7 +46,7 @@
 1. [Colab에서 실행하기](https://colab.research.google.com/github/hojiahn/miraeasset-2025/blob/main/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B.ipynb#scrollTo=oZbBAeBR_gZw)
 
 2. 파일
-   - 뉴스 요약 파일 
+   - 뉴스 요약 파일 (
    - 공시 요약 파일
    - 유사도 분포 파일
    - 보고서 템플릿 파일
