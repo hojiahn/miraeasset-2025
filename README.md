@@ -41,7 +41,7 @@
 
 ## 🖥️ 실행 방법
 
-🔗 [Colab 노트북 실행하기](https://colab.research.google.com/github/hojjahn/miraeasset-2025/blob/main/미래에셋.ipynb)
+🔗 [Colab 노트북 실행하기](https://colab.research.google.com/github/hojiahn/miraeasset-2025/blob/main/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B.ipynb)
 
 📂 사용 파일:
 - `merged_news_summaries_cleaned.xlsx` : 뉴스 요약 입력
