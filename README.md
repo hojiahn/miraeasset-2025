@@ -41,7 +41,7 @@
 
 ## 🖥️ 실행 방법
 
-### ▶️ 1. [Streamlit 데모 실행하기](https://miraeasset-2025-xxxxx.streamlit.app)
+### ▶️ 1. [Streamlit 데모 실행하기](https://miraeasset-2025-mgffvwkge3srevnq3peswg.streamlit.app)
 
 > 사용자가 직접 뉴스와 성향을 입력하고, HyperCLOVA 기반 전략 보고서를 생성할 수 있습니다.
 
@@ -58,7 +58,7 @@
 
 ---
 
-### ▶️ 2. [Google Colab 실행하기](https://colab.research.google.com/github/hojiahn/miraeasset-2025/blob/main/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B.ipynb)
+### ▶️ 2. [Google Colab 실행하기](https://colab.research.google.com/github/hojiahn/miraeasset-2025/blob/main/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B.ipynb#scrollTo=oZbBAeBR_gZw)
 
 > 사전 뉴스 파일과 종목 키워드 기반으로 자동 보고서를 생성하는 방식입니다.
 
